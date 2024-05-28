@@ -1,5 +1,5 @@
 return {
-  "SynTestingNoah",
-  "samjh2001",
-  "fati64757575"
+  ["SynNoah"] = true,
+  ["samjh2001"] = false,
+  ["fati64757575"] = false
 }
