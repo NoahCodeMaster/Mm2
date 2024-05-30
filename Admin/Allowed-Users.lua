@@ -1,5 +1,5 @@
 return {
-  ["SynNoah"] = false,
-  ["samjh2001"] = true,
-  ["fati64757575"] = false
+  "SynNoah",
+  "samjh2001",
+  "fati64757575"
 }
