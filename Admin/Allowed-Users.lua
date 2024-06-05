@@ -1,1 +1,1 @@
-return {"SynNoah"}
+return {"SynTestNoah"}
