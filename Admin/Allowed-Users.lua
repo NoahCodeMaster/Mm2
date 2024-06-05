@@ -1,5 +1,1 @@
-return {
-  "SynNoah",
-  "samjh2001",
-  "fati64757575"
-}
+return {"SynNoah"}
